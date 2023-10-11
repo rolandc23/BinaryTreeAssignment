@@ -1,0 +1,38 @@
+Testing DbInsertRecord
+
+Creating the DB
+
+Attempting to insert: QF409|SYD|MEL|Monday 0705|90
+The record was inserted
+Attempting to insert: QF409|SYD|MEL|Monday 0705|90
+The record was not inserted
+Attempting to insert: QF409|SYD|MEL|Monday 0705|91
+The record was not inserted
+Attempting to insert: QF409|SYD|MEL|Monday 0706|90
+The record was inserted
+Attempting to insert: QF401|SYD|MEL|Monday 0705|90
+The record was inserted
+Attempting to insert: VA323|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA322|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA321|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA320|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA324|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA325|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA326|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA327|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA328|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA329|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA330|MEL|BNE|Sunday 1100|110
+The record was inserted
+Attempting to insert: VA331|MEL|BNE|Sunday 1100|110
+The record was inserted
